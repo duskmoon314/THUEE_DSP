@@ -1,0 +1,13 @@
+# LaTeX temp files
+_minted-*/
+*.synctex.gz
+*.aux
+*.log
+*.out
+*.toc
+
+# Final submit report
+*.zip
+
+# Matlab backup
+*.asv
